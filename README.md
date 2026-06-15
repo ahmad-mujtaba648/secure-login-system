@@ -43,14 +43,16 @@ This project simulates a **real-world secure system login** with brute-force pro
 
 ## Sample Output
 
-**Output 1** — 3 wrong attempts → Account Locked
+
 
 ![Output 1](output-1.png)
 
-**Output 2** — Correct credentials entered → Access Granted
+**Output 1** — 3 wrong attempts → Account Locked
+
 
 ![Output 2](output-2.png)
 
+**Output 2** — Correct credentials entered → Access Granted
 ---
 
 ## How to Run

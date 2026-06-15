@@ -53,6 +53,7 @@ This project simulates a **real-world secure system login** with brute-force pro
 ![Output 2](output-2.png)
 
 **Output 2** — Correct credentials entered → Access Granted
+
 ---
 
 ## How to Run
